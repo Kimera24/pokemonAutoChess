@@ -1081,7 +1081,10 @@
     "TOXEL": "Toxel",
     "TOXTRICITY": "Toxtricity",
     "BRUXISH": "Bruxish",
-    "SUBSTITUTE": "Sostituto"
+    "SUBSTITUTE": "Sostituto",
+    "CYCLIZAR": "Cyclizar",
+    "PAWNIARD": "Pawniard",
+    "BISHARP": "Bisharp"
   },
   "ability_description": {
     "SOFT_BOILED": "Cura tutti gli effetti di stato e garantisce [20,40,80,SP] SHIELD per ogni alleato",
