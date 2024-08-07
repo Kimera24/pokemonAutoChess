@@ -1536,7 +1536,7 @@
     "GULP_MISSILE": "Spara un $t(pkm.ARROKUDA) con PP massimi al bersaglio, infliggendo [55,SP] SPECIAL a tutti i nemici adiacenti. C'è 1 possibilità su 3 che venga lanciato un $t(pkm.PIKACHU)."
   },
   "effect": {
-    "INGRAIN": "Ingranato",
+    "INGRAIN": "Radicamento",
     "GROWTH": "Crescita",
     "SPORE": "Spora",
     "BLAZE": "Fiammata",
