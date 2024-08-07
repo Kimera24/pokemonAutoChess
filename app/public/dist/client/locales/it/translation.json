@@ -1528,7 +1528,7 @@
     "CAMERA_FLASH": "Applica PARALYSIS al bersaglio per [2,SP] secondi",
     "CRUSH_CLAW": "Riduci la DEF del bersaglio di [3,5], quindi esegui due attacchi rapidi che infliggono entrambi il [100,SP]% dell'ATK come PHYSICAL",
     "FIRE_LASH": "Infligge [120,SP] SPECIAL al bersaglio e gli applica ARMOR_REDUCTION per 4 secondi",
-    "FAIRY_LOCK": "Diffonde [90,SP] SPECIAL in modo uniforme sul bersaglio e sui nemici adiacenti. Applica LOCKED al bersaglio per 5 secondi",
+    "FAIRY_LOCK": "Suddividi [90,SP] SPECIAL in modo uniforme sul bersaglio e sui nemici adiacenti. Applica LOCKED al bersaglio per 5 secondi",
     "DRAIN_PUNCH": "L'attacco successivo infligge il [100,SP]% SPECIAL aggiuntivo e ripristina HP pari al [200,SP]% del danno inflitto",
     "GRAVITY": "Viene applicato LOCKED alla squadra nemica per [2,SP] secondi",
     "FAKE_OUT": "Infligge [50.100.150,SP] SPECIAL al bersaglio, quindi l'utilizzatore perde il 30% di AP. Applica FLINCH per 3 secondi al bersaglio a meno che l'AP dell'utilizzatore non sia negativo.",
